@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosService.exe.config
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosService.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosService.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\obj\Debug\MyPhotosService.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\obj\Debug\MyPhotosService.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\obj\Debug\MyPhotosService.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\obj\Debug\MyPhotosService.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosInterfaces.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosInterfaces.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosService\bin\Debug\MyPhotosInterfaces.exe.config

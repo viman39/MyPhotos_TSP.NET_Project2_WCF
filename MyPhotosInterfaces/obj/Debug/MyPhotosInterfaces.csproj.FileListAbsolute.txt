@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\bin\Debug\MyPhotosInterfaces.exe.config
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\bin\Debug\MyPhotosInterfaces.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\bin\Debug\MyPhotosInterfaces.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\obj\Debug\MyPhotosInterfaces.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\obj\Debug\MyPhotosInterfaces.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\MyPhotosInterfaces\obj\Debug\MyPhotosInterfaces.csprojAssemblyReference.cache

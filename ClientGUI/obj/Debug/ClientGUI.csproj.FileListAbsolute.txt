@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\MyPhotosInterfaces.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\MyPhotosInterfaces.pdb
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\bin\Debug\MyPhotosInterfaces.exe.config
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\Lenovo\source\repos\MyPhotos_Proiect2\ClientGUI\obj\Debug\ClientGUI.pdb
